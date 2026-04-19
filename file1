@@ -1,3 +1,7 @@
 This is first line
 This is second line
+<<<<<<< HEAD
 This is third line
+=======
+This is fourth line
+>>>>>>> 7324fa9 (My fourth commit)
